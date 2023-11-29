@@ -5,15 +5,15 @@ Data set for Analysis. I must elaborate 10 questions, answer them in a python no
 
 ### Calendar
 
-|Field|Description|
-|-----|-----------|
-|listing_id| |
-|date|The date in the listing's calendar|
-|available|Whether the date is available for a booking|
-|price|The price listed for the day|
-|adjusted_price| |
-|minimum_nights|Minimum nights for a booking made on this day |
-|maximum_nights|Maximum nights for a booking made on this day |
+|Field|Type|Calculated|Description|Reference|
+|-----|----|----------|-----------|---------|
+|listing_id||| ||
+|date|datetime||The date in the listing's calendar||
+|available|boolean||Whether the date is available for a booking||
+|price|currency||The price listed for the day||
+|adjusted_price|currency|| ||
+|minimum_nights|integer||Minimum nights for a booking made on this day ||
+|maximum_nights|integer||Maximum nights for a booking made on this day ||
 
 Shape (32 100 364, 7)
 ### Reviews
