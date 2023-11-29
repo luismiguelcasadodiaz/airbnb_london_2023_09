@@ -1,6 +1,24 @@
 # airbnb London September 2023
 Data set for Analysis. I must elaborate 10 questions, answer them in a python notebook.
 
+## Steps to solve the puzzle into an ipython notebook
+
+	1.- Ask 10 questions from the dataset and answer them.
+ 		Make sure 6-7 out of these 10 questions are quantifiable i.e there should be a definite numerical output of that question. 
+   		Make sure 3-4 out of these 10 questions could be non-quantifiable questions (For eg: Answering how the price and reviews vary with respect to the type of 
+ accommodation, is a non-quantifiable question.)
+	2.- Divide your code for each question into 2 parts:
+		In 1 block of code do any pre-processing that is required for that question. (cleaning, normalization,  etc.) and generate a clean dataset ready for final analysis.
+		In 1 block of code put all the required analysis 
+
+(Step 4) Your analysis will be graded based on
+(Step 4.1) Business value of the finding
+(Step 4.2) How non-obvious the questions and the insight s  are.
+(Step 4.3) Correctness of the questions and answers.
+(Step 4.4) Intermediate steps to demonstrate your thought process from questions to answers.
+(Step 5) Both positive as well as negative results are interesting to us if you can justify your hypothesis and insights.
+(Step 6) You are required to submit the solution as an ipython notebook to ivana.kruhoberec@turing.com
+
 ## Files description
 
 ### Calendar
