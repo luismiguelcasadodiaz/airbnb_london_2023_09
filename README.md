@@ -105,7 +105,7 @@ shape (195 303, 74)
 |number_of_reviews_ltm|integer |y|The number of reviews the listing has (in the last 12 months) | |
 |number_of_reviews_l30d|integer |y| The number of reviews the listing has (in the last 30 days)| |
 |first_review|date |y| The date of the first/oldest review| |
-|last_review|date |y| |The date of the last/newest review |
+|last_review|date |y|The date of the last/newest review ||
 |review_scores_rating| || | |
 |review_scores_accuracy| || | |
 |review_scores_cleanliness| || | |
