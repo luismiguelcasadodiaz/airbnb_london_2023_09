@@ -3,13 +3,15 @@ Data set for Analysis. I must elaborate 10 questions, answer them in a python no
 
 ## Steps to solve the puzzle into an ipython notebook
 
-	1.- Ask 10 questions from the dataset and answer them.
+	1.- Ask 10 questions from the dataset and answer them:
  		Make sure 6-7 out of these 10 questions are quantifiable i.e there should be a definite numerical output of that question. 
    		Make sure 3-4 out of these 10 questions could be non-quantifiable questions (For eg: Answering how the price and reviews vary with respect to the type of 
  accommodation, is a non-quantifiable question.)
+ 
 	2.- Divide your code for each question into 2 parts:
 		In 1 block of code do any pre-processing that is required for that question. (cleaning, normalization,  etc.) and generate a clean dataset ready for final analysis.
-		In 1 block of code put all the required analysis 
+		In 1 block of code put all the required analysis
+  	3.- Submit the solution as an ipython notebook to ivana.kruhoberec@turing.com
 
 (Step 4) Your analysis will be graded based on
 (Step 4.1) Business value of the finding
