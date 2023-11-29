@@ -12,13 +12,14 @@ Data set for Analysis. I must elaborate 10 questions, answer them in a python no
 		In 1 block of code put all the required analysis
   	3.- Submit the solution as an ipython notebook to ivana.kruhoberec@turing.com
 
-(Step 4) Your analysis will be graded based on
-(Step 4.1) Business value of the finding
-(Step 4.2) How non-obvious the questions and the insight s  are.
-(Step 4.3) Correctness of the questions and answers.
-(Step 4.4) Intermediate steps to demonstrate your thought process from questions to answers.
-(Step 5) Both positive as well as negative results are interesting to us if you can justify your hypothesis and insights.
-(Step 6) You are required to submit the solution as an ipython notebook to ivana.kruhoberec@turing.com
+Analysis will be graded based on:
+
+-Business value of the finding
+-How non-obvious the questions and the insight s  are.
+-Correctness of the questions and answers.
+-Intermediate steps to demonstrate your thought process from questions to answers.
+-Both positive as well as negative results are interesting to us if you can justify your hypothesis and insights.
+
 
 ## Files description
 
