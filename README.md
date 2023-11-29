@@ -16,24 +16,26 @@ Data set for Analysis. I must elaborate 10 questions, answer them in a python no
 |maximum_nights|integer||Maximum nights for a booking made on this day ||
 
 Shape (32 100 364, 7)
+
 ### Reviews
 
-|Field|Description|
-|-----|-----------|
-|listing_id| |
-|id| |
-|date| |
-|reviewer_id| |
-|reviewer_name| |
-|comments| |
+|Field|Type|Calculated|Description|Reference|
+|-----|----|----------|-----------|---------|
+|listing_id| || ||
+|id| || ||
+|date| || ||
+|reviewer_id| || ||
+|reviewer_name| || ||
+|comments| || ||
+
 Shape (1 581 034, 6)
 
 ### Reviews_summary
 
-|Field|Description|
-|-----|-----------|
-|listing_id| |
-|date| |
+|Field|Type|Calculated|Description|Reference|
+|-----|----|----------|-----------|---------|
+|listing_id| || ||
+|date| || ||
 
 Shape (1 581 034, 2)
 
