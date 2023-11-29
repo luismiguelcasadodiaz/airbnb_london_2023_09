@@ -101,9 +101,7 @@ shape (195 303, 74)
 |availability_90|integer |y|avaliability_x. The availability of the listing 90 days in the future as determined by the calendar. Note a listing may not be available because it has been booked by a guest or blocked by the host. | |
 |availability_365|integer y||avaliability_x. The availability of the listing 365 days in the future as determined by the calendar. Note a listing may not be available because it has been booked by a guest or blocked by the host. | |
 |calendar_last_scraped|date || | |
-|number_of_reviews|integer ||
-
-The number of reviews the listing has | |
+|number_of_reviews|integer ||The number of reviews the listing has | |
 |number_of_reviews_ltm|integer |y|The number of reviews the listing has (in the last 12 months) | |
 |number_of_reviews_l30d|integer |y| The number of reviews the listing has (in the last 30 days)| |
 |first_review|date |y| The date of the first/oldest review| |
