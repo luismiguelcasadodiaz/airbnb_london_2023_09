@@ -14,11 +14,15 @@ Data set for Analysis. I must elaborate 10 questions, answer them in a python no
 
 Analysis will be graded based on:
 
--Business value of the finding
--How non-obvious the questions and the insight s  are.
--Correctness of the questions and answers.
--Intermediate steps to demonstrate your thought process from questions to answers.
--Both positive as well as negative results are interesting to us if you can justify your hypothesis and insights.
+- Business value of the finding.
+
+- How non-obvious the questions and the insight s  are.
+
+- Correctness of the questions and answers.
+
+- Intermediate steps to demonstrate your thought process from questions to answers.
+
+- Both positive as well as negative results are interesting to us if you can justify your hypothesis and insights.
 
 
 ## Files description
