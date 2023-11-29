@@ -23,7 +23,7 @@ Shape (32 100 364, 7)
 |-----|----|----------|-----------|---------|
 |listing_id| || ||
 |id| || ||
-|date| || ||
+|date|datetime || ||
 |reviewer_id| || ||
 |reviewer_name| || ||
 |comments| || ||
@@ -35,7 +35,7 @@ Shape (1 581 034, 6)
 |Field|Type|Calculated|Description|Reference|
 |-----|----|----------|-----------|---------|
 |listing_id| || ||
-|date| || ||
+|date|datetime || ||
 
 Shape (1 581 034, 2)
 
@@ -43,8 +43,8 @@ Shape (1 581 034, 2)
 
 shape (195 303, 74)
 
-|Field |Description |
-|------|------------|
+|Field|Type|Calculated|Description|Reference|
+|-----|----|----------|-----------|---------|
 |id| |
 |listing_url| |
 |scrape_id| |
