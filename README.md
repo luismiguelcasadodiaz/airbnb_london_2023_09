@@ -1,5 +1,5 @@
 # airbnb London September 2023
-Data set for Analysis. I must elaborate 10 questions, answer them in a python notebook, and send it to a Talent Ops Specialist at Turing.com
+Data set for Analysis. I must elaborate 10 questions, answer them in a [python notebook](https://github.com/luismiguelcasadodiaz/airbnb_london_2023_09/blob/main/Ivana_Kruhoberec.ipynb), and send it to a Talent Ops Specialist at Turing.com
 
 ## Steps to solve the puzzle into an ipython notebook
 
